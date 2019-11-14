@@ -1,4 +1,4 @@
-productID, reviewerID, rating, unixReviewTime
+productID,reviewerID,rating,unixReviewTime
 0,74,3,1569436169
 0,761,3,1569660131
 0,1193,4,1569822506

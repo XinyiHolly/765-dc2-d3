@@ -1,23 +1,26 @@
-/* Stylesheet by Xinyi Liu, 2017 */
-.container {
-    background-color: gray
+/* Stylesheet by Xinyi Liu, 2017*/
+
+#datasize {
+    width: 90px;
 }
 
-.axis path,
-.axis line {
-    fill: none;
-    stroke: black;
-    stroke-width: 1px;
-    shape-rendering: crispEdges;
+#reviewerid {
+    width: 90px;
 }
 
-.axis text {
-    font-family: sans-serif;
-    font-size: 0.9em;
+#reviewernum {
+    width: 90px;
 }
 
-.title {
-    font-family: sans-serif;
-    font-size: 1.5em;
-    font-weight: bold;
+#setting {
+    margin-top: 5px;
+}
+
+#vis {
+    margin-top: 20px;
+}
+
+#my_dataviz .legend rect {
+    stroke: #333;
+    stroke-width: 0.5px;
 }
